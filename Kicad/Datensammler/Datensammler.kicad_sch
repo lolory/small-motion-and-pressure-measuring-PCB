@@ -1,0 +1,57 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8c30b723-6f32-4e1f-9c63-2a52e9a3816e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 30.48 33.02)
+		(size 59.69 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e2562eb6-9e20-4717-9249-950e298607e2")
+		(property "Sheetname" "IMU"
+			(at 30.48 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drucksensor.kicad_sch"
+			(at 30.48 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Datensammler"
+				(path "/8c30b723-6f32-4e1f-9c63-2a52e9a3816e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
